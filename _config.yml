@@ -1,6 +1,6 @@
 name: bendaron
 favicon: null
-layout_spectrum: 0.9667768911458552
+layout_spectrum: 1
 typography_spectrum: 0.004631989169865847
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.6261219612788409
+  brandStrength: 0.625
   lightness: 0.8347402077633888
   saturation: 0.3912080032750964
   rhythmicContrast: 0.6528146385680884
