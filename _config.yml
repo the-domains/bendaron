@@ -1,0 +1,28 @@
+name: bendaron
+favicon: null
+layout_spectrum: 0.9667768911458552
+typography_spectrum: 0.004631989169865847
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6261219612788409
+  lightness: 0.8347402077633888
+  saturation: 0.3912080032750964
+  rhythmicContrast: 0.6528146385680884
+purpose: []
